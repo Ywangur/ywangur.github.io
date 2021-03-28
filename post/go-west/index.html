@@ -1,0 +1,158 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>GO WEST | TRANSYWANG</title>
+<meta name="description" content="">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://ywangur.github.io/favicon.ico?v=1616948733184">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://ywangur.github.io/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://ywangur.github.io">
+        <img class="avatar" src="https://ywangur.github.io/images/avatar.png?v=1616948733184" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://ywangur.github.io">
+        <h1 class="site-title">TRANSYWANG</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+            <div class="feature-container" style="background-image: url('https://ywangur.github.io/post-images/go-west.png')">
+            </div>
+          
+          <h2 class="post-title">GO WEST</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-06-11</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://ywangur.github.io/tag/trans/">
+                    翻译
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>go west 在第一次世界大战中成为一种通用的俚语，表示死去，因为一战中的西线是战争最激烈，死人最多的地方。</p>
+<p>一个德国士兵战后写了一本小说，深刻描写了战场上的惨状，小说题为 Im Westen nichts Neues，英文译为 All Quiet on the Western Front，中文译名是《西线无战事》。</p>
+<p>字典上注明这个词是军中俗语：（Colloq.）first in British soldier's use，可见最初是英国士兵用起来的。</p>
+<p>此外美洲土著居民曾有一种说法，a dying person went west to meet the sinking sun，将死之人西去会夕阳，用太阳西沉表示死亡也许是人类最原始的想法。</p>
+<p>还有字典解释这个词的来源为 probably from earlier American gone west into unorganized territory，大概是美国西部大开发前，去那里的美国人少有生还的缘故。</p>
+<p>追溯到更早以前，古埃及神话里俄赛里斯死后为神，统治了尼罗河以西的土地，成为冥王，故而往西即为死。欧美用法一贯乐意沿用古希腊古埃及古罗马，想来也不意外。</p>
+<p>除了形容人，这个词也可以形容事物，意为失去，或永远得不到，比如 His hopes of a professional singer has gone west，他想成为一名专业的歌手是永无希望了。</p>
+<p>中文里也用“归西”表示一个人死亡，这固然是受了佛教用往西方极乐世界比喻死亡的影响。</p>
+<p>另外古诗里也爱用一个词叫“西没”，比如胡曾的《咏史诗》：“陆机西没洛阳城，吴国春风草又青”，又或者元好问的《江城子》：“何用东生，西没苦相催”。</p>
+<p>可见在用太阳西沉表示人的死亡这一点上，中外是一致的。</p>
+
+          </div>
+        </div>
+
+        
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan"></div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://ywangur.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>
