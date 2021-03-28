@@ -2,13 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywangur.github.io</id>
     <title>TRANSYWANG</title>
-    <updated>2021-03-28T16:39:13.470Z</updated>
+    <updated>2021-03-28T17:19:06.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywangur.github.io"/>
     <link rel="self" href="https://ywangur.github.io/atom.xml"/>
     <logo>https://ywangur.github.io/images/avatar.png</logo>
     <icon>https://ywangur.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, TRANSYWANG</rights>
+    <entry>
+        <title type="html"><![CDATA[江河与湖泊上微笑而骄傲的漫游者]]></title>
+        <id>https://ywangur.github.io/JHHH/</id>
+        <link href="https://ywangur.github.io/JHHH/">
+        </link>
+        <updated>2020-07-15T16:46:28.000Z</updated>
+        <content type="html"><![CDATA[<p>最近看完一本有趣的书，《剑桥简明金庸武侠史》。作者在设定金庸武侠是真实历史的前提下，以十五部金庸小说，唐宋传奇和各时期的民间传说为基础，完成了中国武侠世界的虚拟历史研究。</p>
+<p>作者是骨灰级金庸迷，行文可以说相当诡异。为了贴合书名中的“剑桥简明史”，作者假扮了翻译腔，特意将一些武侠词汇写得古古怪怪，还在注解里杜撰前人的学术著作，可以说是一本正经的胡说八道，但熟悉金庸的人读起来就会觉得相当有意思。</p>
+<p>首先吸引人的是献辞页：</p>
+<p>Till the horizon of sky, flies snow.<br>
+To shoot a white deer, with an arrow!<br>
+Leaning against green mandarin ducks,<br>
+The magic knight smiles at the book, asbelow.</p>
+<p>大雪纷飞，直到天际<br>
+箭矢射向，一头白鹿<br>
+倚靠着绿色的满大人鸭，神奇的骑士<br>
+微笑地看着下面这本书</p>
+<p>这是那句有名的“飞雪连天射白鹿，笑书神侠倚碧鸳”。英文其实写得蛮好，但是诗句回译成中文，加上作者刻意而为，就变得有些恶搞。</p>
+<p>Mandarin duck 即是鸳鸯，作者可以回译成“满大人鸭”是让人万万没有想到的。另外，金庸也写有一本《鸳鸯刀》，作者顺手写成了：《满大人鸭子刀的传说与历史》（The Mandarin Duck Sabers: Legend and History）。</p>
+<p>合格的学术研究少不了文献综述，作者也认真地写了一章文献回顾，系统的介绍了金庸先生的 15 部小说。这一章的翻译腔主要集中在这些小说的书名上：</p>
+<p>《书剑恩仇录》：《书本与剑的档案：乾隆帝与中国秘密社会》（The File of the Book and the Sword: the Chien-lung Emperor and Chinese Secret Societies）</p>
+<p>《碧血剑》：《绿色血液之剑：袁承志与明清政治》（A Sword of Green Blood: Yuan Cheng-chi and Politics Between the Ming and Ching Dynasties）</p>
+<p>《射雕英雄传》：《射雕的英雄：一部传记》（The Condor—Shooting Heroes: A Biography）</p>
+<p>《神雕侠侣》：《神圣的雕之罗曼史》（Romance of the Divine Condor）</p>
+<p>《倚天屠龙记》：《天之剑与龙之刀：元代武术世界与地下宗教》（The Heavenly Sword and the Dragon Saber: the Kungfu World and Underground Cults in the Yuan Dynasty）</p>
+<p>《雪山飞狐》：《狐狸，飞过雪山》（Fox Flies over Snowy Montains）</p>
+<p>《飞狐外传》：《飞翔狐狸的青年时代》（The Flying Fox' s Youth）</p>
+<p>《白马啸西风》：《哭泣的白马，随风而去》（Crying White Horse, Gone with the Wind）</p>
+<p>《连城诀》：《秘密如同城市》（Secret is Like a City）</p>
+<p>《天龙八部》：《天神与龙的战争史：北宋后期的武术世界》（History of Wars between Heavenly Gods and Dragons: Kungfu World in Late Northern Song）</p>
+<p>《侠客行》：《游侠之歌：或一个武术乌托邦的覆灭》（Song of Kinghts-errant: or the Fall of a Kungfu Utopia）</p>
+<p>《笑傲江湖》：《江河与湖泊上微笑而骄傲的漫游者：明代中期武术门派与教派的战争》（The Smiling, Proud Wanderer on Rivers and Lakes: Wars between Martial Schools and Cults in the Mid-Ming Period）</p>
+<p>《鹿鼎记》：《鹿鼎公爵传》（A Life of Duke Ludingius）</p>
+<p>《越女剑》：《越国女士的剑》（Sword of the Lady of the Yue Kingdom）</p>
+<p>从英语的角度来看，站在作者所设立的金庸武侠是真实历史的前提上，这些英译在某种程度上其实都是比较准确的，尤其是《倚天》和《笑傲》，相当有西方汉学著作的味道，类似《叫魂：1768年的中国妖术大恐慌》（Soulstealers：The Chinese Sorcery Scare of 1768）。</p>
+<p>根据一篇 2011 年的论文（注释 2），当时以书籍形式出版的中国武侠小说英译本只有金庸和古龙，其中金庸 4 部：《书剑恩仇录》（The Book and the Sword）、《鹿鼎记》（The Deer and the Cauldron）、《雪山飞狐》（Fox Volant of the Snowy Mountain）和《射雕英雄传》（Eagles and Heroes），不过《射雕》并没有翻译完；古龙 1 部：《萧十一郎》（The Eleventh Son: A Novel of Martial Arts and Tangled Love）。</p>
+<p>相比之下网络武侠英译本就多得多了，金古梁温包括黄易王度庐都有，当时的统计是 59 部，少数作品还有两种以上的译本。</p>
+<p>论文还总结了武侠小说英译的几个特点：</p>
+<p>出版社不是国外的就是香港的，没有一家是大陆的；甚至连译者也没有一个是大陆的；<br>
+网络译本和书籍译本数量反差极大，而网络译本的出现正是源于书籍译本的匮乏，可见武侠小说的市场还是有的；<br>
+翻译的作品与武侠影视的传播有密切关系，比如黄易作品的翻译就得益于《寻秦记》的热播；<br>
+由于缺乏系统研究和规划，译者缺乏相应经验和文化背景以及受个人兴趣爱好影响，无论是书籍译本还是网络译本，翻译质量都参差不齐。</p>
+<p>2018 年英国出版了新的《射雕》英译本第一部，不过译者仍然不是中国人，翻译策略也有争议，起码在翻译中尽量向《指环王》靠拢这一基点上和中国传统武侠就是有巨大偏差的，而且这个译本对人名的处理也令人失望（注释3）。</p>
+<p>武侠小说之所以难英译，在于东西方文化的巨大差异。根植于中国传统文化的意象是英译的难点，比如“侠（knight-errant）”、“江湖（Rivers and lakes）”以及“回风拂柳（Willow in the Wind）”和“星河在天（Stars in the Sky）”等各种诗意的武功招式。</p>
+<p>对于文化差异所带来的翻译问题，归化和异化是解决问题最常见的两种翻译策略。</p>
+<p>考虑到武侠小说的文本类型，通俗小说的目的就是简单来讲就是娱乐大众，要让英文读者接受中国武侠小说，就需要充分照顾读者的文化背景和阅读习惯，采用归化策略，“让作者靠近读者”；但小说当中的武侠元素又要谨慎保留，比如“江湖中人”特定的语言习惯和行为准则，就宜采取异化策略，“让读者靠近作者”（注释 4）。</p>
+<p>总的来说，武侠小说的英译宜统一归化和异化两种策略，以归化为主，再辅以适当的简化、加注、借用等手段进行变通。</p>
+<p>《射雕》里出现了两个地名，汴京和临安，但书中又写了好几种不同的叫法：汴京又叫汴梁和东京，临安又称杭州和余杭。中国读者对这些历史常识是很熟悉的，但英文读者却很难理解清楚，而这类地方加注又略显冗余，因此进行简化，只采用一个统一的译法是最实际的：Bianliang 和 Lin'an。</p>
+<p>《鹿鼎记》里有几招出场率颇高的招式，“横扫千军”、“高山流水”和“神行百变”，译者都进行了简化，最大限度降低英文读者的阅读难度，分别译为 the Two Way Sweep、the Cataract 和 Hundred Changes（注释 5）。金庸先生说过自己不懂功夫，这些招式纯属子虚乌有。中文读者一看便知是假的，因此名字起得诗意一些也无可厚非，但要英文读者理解这份“诗意”，要求则未免太高，因此尽量归化，并简化形式和内容，是最友好的翻译方式。</p>
+<p>武侠小说里的人物角色是翻译的另一个难点。《书剑恩仇录》译本采用的是完全异化的策略。主要人物的名字完全音译，次要人物只译姓氏或绰号，比如霍青桐译为 Huo Qingtong，赵半山简化为 Zhao。遗憾的是翠羽黄衫，只译了一半，the Yellow-Robed Lady，变成终南山后的黄衫女了。《雪山飞狐》译本又采用的是完全归化的策略。所有人物的名字都采取音译结合意译的方法，比如陶百岁译为 Century Tao，金面佛直接译为 Gilt-Faced Buddha。不过将胡斐译为 Fox Hu 就和原文的意味相去甚远了，不仅显不出胡斐的文采斐然，还给人一种这个角色像狐狸一样性格狡诈的错觉。</p>
+<p>其实仔细想想，人名又何必意译呢。几时有人听过“灌木总统”的？</p>
+<p>《剑桥简明金庸武侠史》的作者不仅大玩了一把用翻译腔从英文回译中文的把戏，还用翻译腔的白话文翻译了几首古诗。</p>
+<p>比如杜甫的《观公孙大娘弟子舞剑器行》，原文是：</p>
+<p>昔有佳人公孙氏，一舞剑器动四方。<br>
+观者如山色沮丧，天地为之久低昂。<br>
+㸌如羿射九日落，矫如群帝骖龙翔。<br>
+来如雷霆收震怒，罢如江海凝清光。</p>
+<p>作者写成：</p>
+<p>在过去，有一位美人公孙小姐。<br>
+舞动宝剑，惊动了遥远的地方。<br>
+观众们集聚在一起，如同高山。<br>
+他们无不感到恐惧，神色仓皇。<br>
+天空和大地啊，似乎也在赞叹。<br>
+好像远古的英雄，射下天上太阳。<br>
+又如天上的神帝，在群龙中翱翔。<br>
+剑光到来，宛如雷霆收起了怒火。<br>
+剑影停下，仿佛江海的清波粼粼。</p>
+<p>还有李白的《侠客行》：</p>
+<p>赵客缦胡缨，吴钩霜雪明。</p>
+<p>银鞍照白马，飒沓如流星。</p>
+<p>十步杀一人，千里不留行。</p>
+<p>事了拂衣去，深藏身与名。</p>
+<p>闲过信陵饮，脱剑膝前横。</p>
+<p>将炙啖朱亥，持觞劝侯嬴。</p>
+<p>三杯吐然诺，五岳倒为轻。</p>
+<p>眼花耳热后，意气素霓生。</p>
+<p>救赵挥金锤，邯郸先震惊。</p>
+<p>千秋二壮士，烜赫大梁城。</p>
+<p>纵死侠骨香，不惭世上英。</p>
+<p>谁能书阁下，白首太玄经。</p>
+<p>作者译成《游侠之歌》：</p>
+<p>赵国的骑士，匈奴的头盔，</p>
+<p>吴国的弯刀，冰雪般明亮，</p>
+<p>银色的鞍辔，雪白的骏马，</p>
+<p>少年啦飞驰，如同流星。</p>
+<p>每走十步就谋杀一个人，</p>
+<p>就这样走上一千英里。</p>
+<p>当一切结束后，洗去衣服上的血迹，</p>
+<p>再也没有人知道我在哪里。</p>
+<p>闲暇，与信陵大人对坐，</p>
+<p>脱下宝剑，横在膝前，</p>
+<p>用烤肉招待朱亥，</p>
+<p>也劝侯赢痛饮美酒。</p>
+<p>说出的承诺，在三杯酒后</p>
+<p>让五岳的山脉也显得轻浮。</p>
+<p>眼睛中有花朵，耳中感到热量。</p>
+<p>磅礴元气，化为一道白色的长虹。</p>
+<p>挥动黄金之锤，拯救国家，</p>
+<p>让整个都城为之震惊。</p>
+<p>一千年来，两位雄壮的游侠。</p>
+<p>给大梁城以荣耀。</p>
+<p>即使死去，游侠的骨骼仍然散发香气。</p>
+<p>无愧于世间的英豪。</p>
+<p>可是有谁呵，能够在书斋中，</p>
+<p>研究玄妙的经典，直到满头白发？</p>
+<p>少年啦飞驰，如同流星，一切结束后，再也没有人知道我在哪里。</p>
+<p>相当浪漫，相当李白了。</p>
+<p>参考：</p>
+<ol>
+<li>《剑桥简明金庸武侠史》，新垣平，长江文艺出版社，2013.</li>
+<li>肖强. 中国武侠小说英译及其研究现状[J]，内江师范学院学报，2011（3）</li>
+<li>https://www.bilibili.com/video/av20085163/</li>
+<li>吴玉光. 归化还是异化：金庸武侠小说的英译策略探究[J]，西安外国语大学学报，2011（6）</li>
+<li>Minford, J. The Deer and the Couldon[M], Oxford University Press, 2002.</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mansplain，语言中的性别歧视与偏见]]></title>
         <id>https://ywangur.github.io/mansplainyu-yan-zhong-de-xing-bie-qi-shi-yu-pian-jian/</id>
@@ -90,6 +207,60 @@
 <p>中文里也用“归西”表示一个人死亡，这固然是受了佛教用往西方极乐世界比喻死亡的影响。</p>
 <p>另外古诗里也爱用一个词叫“西没”，比如胡曾的《咏史诗》：“陆机西没洛阳城，吴国春风草又青”，又或者元好问的《江城子》：“何用东生，西没苦相催”。</p>
 <p>可见在用太阳西沉表示人的死亡这一点上，中外是一致的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Love: Love Stories in Coronavirus Pandemic]]></title>
+        <id>https://ywangur.github.io/modern-love-love-stories-in-coronavirus-pandemic/</id>
+        <link href="https://ywangur.github.io/modern-love-love-stories-in-coronavirus-pandemic/">
+        </link>
+        <updated>2020-04-01T17:02:34.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天听了 Modern Love Podcast 的一期节目，来自世界各地的人讲述疫情如何影响自己的生活。留意到了印象比较深刻的几个故事。</p>
+<p>一位住在多哈的加拿大女生刚刚分手，她的伴侣是一位飞行员，他预感到自己即将失业。她用 devastated 来形容她此刻的心情。她不禁开始想到同样在疫情期间失业或失恋的人们，给他们送上安慰，也安慰自己。</p>
+<p>I'm experiencing a break up, right now, during the golbal pandemic, and it's not  easy.<br>
+I'm thinking about the other people who are experiencing the same.<br>
+Hang in there.</p>
+<p>来自西雅图的女生用邮件发送了一段半夜录的录音，讲述了她的孤独。独居，没有伴侣，没有宠物，隔离，锻炼，努力保持健康，她叹气，因为孤独。</p>
+<p>It's been over two weeks since I've touched anyone.<br>
+I live alone.<br>
+I have no partner.<br>
+I have no pets.<br>
+I've been trying my best to practice physical distancing, to keep up safe and health.<br>
+Uh...but it's loney.</p>
+<p>一位老太太讲述了自己和先生的故事。他们已经结婚 50 多年了。过去 20 年，先生一直患有阿兹海默症，而且病情还在持续恶化。他已经在护理中心住了 4 年，妻子坚持每天去看望他两次，风雨无阻。老先生不记得自己的妻子，已经很久了。</p>
+<p>Now, I go to visit twice a day.<br>
+I stand outside the window, in the rain, and in the snow, and in the frog.<br>
+I try to eagage his eyes, try to engage his attention.<br>
+I do this because I dearly love this man.</p>
+<p>还有一个在姐姐家的地下室隔离的女孩。她在48小时前接触过一位确诊病人，而她姐姐即将临盆。姐姐在医院生小孩的时候，她自己搬进了地下室，等待检测结果。检测结果为阴性。现在她可以拥抱新生命了。</p>
+<p>Today, 3.27. It's my 33 birthday.<br>
+I found out at 4:00 PM GMT standard time today that my test was negative.<br>
+The best birthday present in the world was getting to hold my nephew for the first time.</p>
+<p>结尾是一段根据 Can't Take My Eyes Off You 改编过的歌曲，改编者希望在这样一个沮丧的时刻，大家也可以感受到她的幽默。</p>
+<p>Coronavirus, you keep me home at day<br>
+Coronavirus, no one will hold me tight<br>
+Coronavirus, stand over there well I see</p>
+<p>Don't touch me baby<br>
+Don't take me down this way<br>
+Don't touch me baby<br>
+Don't wonna die this way</p>
+<p>Wash your God damn hands<br>
+Just wash your God damn hands</p>
+<p>对应的原曲歌词为：</p>
+<p>I love you baby, and if it's quite all right<br>
+I need you baby to warm my lonely night<br>
+I love you baby. Trust in me when I say</p>
+<p>I love you baby<br>
+Don't let me down, I pray<br>
+I love you baby<br>
+Now that I found you. Stay</p>
+<p>And let me love you, baby<br>
+Let me love you</p>
+<p>是一期很喜欢的节目了。</p>
+<p>参考：</p>
+<ol>
+<li>2020 年 4 月 1 日《纽约时报》Modern Love Podcast：nytimes.com/2020/04/01/style/modern-love-podcast-coronavirus-relationships.html</li>
+</ol>
 ]]></content>
     </entry>
 </feed>
