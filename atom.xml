@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywangur.github.io</id>
     <title>TRANSYWANG</title>
-    <updated>2021-03-30T06:33:29.499Z</updated>
+    <updated>2021-03-30T06:54:14.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywangur.github.io"/>
     <link rel="self" href="https://ywangur.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <link href="https://ywangur.github.io/JHHH/">
         </link>
         <updated>2020-07-15T16:46:28.000Z</updated>
-        <content type="html"><![CDATA[<p>最近看完一本有趣的书，《剑桥简明金庸武侠史》。作者在设定金庸武侠是真实历史的前提下，以十五部金庸小说，唐宋传奇和各时期的民间传说为基础，完成了中国武侠世界的虚拟历史研究。</p>
+        <content type="html"><![CDATA[<p>最近看完一本有趣的书，<a herf="https://book.douban.com/subject/24324704/" target="_blank">《剑桥简明金庸武侠史》</a>。作者在设定金庸武侠是真实历史的前提下，以十五部金庸小说，唐宋传奇和各时期的民间传说为基础，完成了中国武侠世界的虚拟历史研究。</p>
 <p>作者是骨灰级金庸迷，行文可以说相当诡异。为了贴合书名中的“剑桥简明史”，作者假扮了翻译腔，特意将一些武侠词汇写得古古怪怪，还在注解里杜撰前人的学术著作，可以说是一本正经的胡说八道，但熟悉金庸的人读起来就会觉得相当有意思。</p>
 <p>首先吸引人的是献辞页：</p>
 <p>Till the horizon of sky, flies snow.<br>
@@ -44,20 +44,20 @@ The magic knight smiles at the book, asbelow.</p>
 <p>《鹿鼎记》：《鹿鼎公爵传》（A Life of Duke Ludingius）</p>
 <p>《越女剑》：《越国女士的剑》（Sword of the Lady of the Yue Kingdom）</p>
 <p>从英语的角度来看，站在作者所设立的金庸武侠是真实历史的前提上，这些英译在某种程度上其实都是比较准确的，尤其是《倚天》和《笑傲》，相当有西方汉学著作的味道，类似《叫魂：1768年的中国妖术大恐慌》（Soulstealers：The Chinese Sorcery Scare of 1768）。</p>
-<p>根据一篇 2011 年的论文（注释 2），当时以书籍形式出版的中国武侠小说英译本只有金庸和古龙，其中金庸 4 部：《书剑恩仇录》（The Book and the Sword）、《鹿鼎记》（The Deer and the Cauldron）、《雪山飞狐》（Fox Volant of the Snowy Mountain）和《射雕英雄传》（Eagles and Heroes），不过《射雕》并没有翻译完；古龙 1 部：《萧十一郎》（The Eleventh Son: A Novel of Martial Arts and Tangled Love）。</p>
+<p>根据一篇 2011 年的<a herf="https://www.cnki.com.cn/Article/CJFDTotal-NJSG201103013.htm" target="_blank">论文</a>，当时以书籍形式出版的中国武侠小说英译本只有金庸和古龙，其中金庸 4 部：《书剑恩仇录》（The Book and the Sword）、《鹿鼎记》（The Deer and the Cauldron）、《雪山飞狐》（Fox Volant of the Snowy Mountain）和《射雕英雄传》（Eagles and Heroes），不过《射雕》并没有翻译完；古龙 1 部：《萧十一郎》（The Eleventh Son: A Novel of Martial Arts and Tangled Love）。</p>
 <p>相比之下网络武侠英译本就多得多了，金古梁温包括黄易王度庐都有，当时的统计是 59 部，少数作品还有两种以上的译本。</p>
 <p>论文还总结了武侠小说英译的几个特点：</p>
 <p>出版社不是国外的就是香港的，没有一家是大陆的；甚至连译者也没有一个是大陆的；<br>
 网络译本和书籍译本数量反差极大，而网络译本的出现正是源于书籍译本的匮乏，可见武侠小说的市场还是有的；<br>
 翻译的作品与武侠影视的传播有密切关系，比如黄易作品的翻译就得益于《寻秦记》的热播；<br>
 由于缺乏系统研究和规划，译者缺乏相应经验和文化背景以及受个人兴趣爱好影响，无论是书籍译本还是网络译本，翻译质量都参差不齐。</p>
-<p>2018 年英国出版了新的《射雕》英译本第一部，不过译者仍然不是中国人，翻译策略也有争议，起码在翻译中尽量向《指环王》靠拢这一基点上和中国传统武侠就是有巨大偏差的，而且这个译本对人名的处理也令人失望（注释3）。</p>
+<p>2018 年英国出版了新的《射雕》英译本第一部，不过译者仍然不是中国人，翻译策略也有争议，起码在翻译中尽量向《指环王》靠拢这一基点上和中国传统武侠就是有巨大偏差的，而且这个译本对人名的处理也<a herf="https://www.bilibili.com/video/av20085163/" target="_blank">令人失望</a>。</p>
 <p>武侠小说之所以难英译，在于东西方文化的巨大差异。根植于中国传统文化的意象是英译的难点，比如“侠（knight-errant）”、“江湖（Rivers and lakes）”以及“回风拂柳（Willow in the Wind）”和“星河在天（Stars in the Sky）”等各种诗意的武功招式。</p>
 <p>对于文化差异所带来的翻译问题，归化和异化是解决问题最常见的两种翻译策略。</p>
-<p>考虑到武侠小说的文本类型，通俗小说的目的就是简单来讲就是娱乐大众，要让英文读者接受中国武侠小说，就需要充分照顾读者的文化背景和阅读习惯，采用归化策略，“让作者靠近读者”；但小说当中的武侠元素又要谨慎保留，比如“江湖中人”特定的语言习惯和行为准则，就宜采取异化策略，“让读者靠近作者”（注释 4）。</p>
+<p>考虑到武侠小说的文本类型，通俗小说的目的就是简单来讲就是娱乐大众，要让英文读者接受中国武侠小说，就需要充分照顾读者的文化背景和阅读习惯，采用归化策略，“让作者靠近读者”；但小说当中的武侠元素又要<a herf="https://www.cnki.com.cn/Article/CJFDTotal-XAWX201102025.htm" target="_blank">谨慎保留</a>，比如“江湖中人”特定的语言习惯和行为准则，就宜采取异化策略，“让读者靠近作者”。</p>
 <p>总的来说，武侠小说的英译宜统一归化和异化两种策略，以归化为主，再辅以适当的简化、加注、借用等手段进行变通。</p>
 <p>《射雕》里出现了两个地名，汴京和临安，但书中又写了好几种不同的叫法：汴京又叫汴梁和东京，临安又称杭州和余杭。中国读者对这些历史常识是很熟悉的，但英文读者却很难理解清楚，而这类地方加注又略显冗余，因此进行简化，只采用一个统一的译法是最实际的：Bianliang 和 Lin'an。</p>
-<p>《鹿鼎记》里有几招出场率颇高的招式，“横扫千军”、“高山流水”和“神行百变”，译者都进行了简化，最大限度降低英文读者的阅读难度，分别译为 the Two Way Sweep、the Cataract 和 Hundred Changes（注释 5）。金庸先生说过自己不懂功夫，这些招式纯属子虚乌有。中文读者一看便知是假的，因此名字起得诗意一些也无可厚非，但要英文读者理解这份“诗意”，要求则未免太高，因此尽量归化，并简化形式和内容，是最友好的翻译方式。</p>
+<p><a herf="https://global.oup.com/academic/product/the-deer-and-the-cauldron-9780190836054?cc=us&lang=en&" target="_blank">《鹿鼎记》</a>里有几招出场率颇高的招式，“横扫千军”、“高山流水”和“神行百变”，译者都进行了简化，最大限度降低英文读者的阅读难度，分别译为 the Two Way Sweep、the Cataract 和 Hundred Changes。金庸先生说过自己不懂功夫，这些招式纯属子虚乌有。中文读者一看便知是假的，因此名字起得诗意一些也无可厚非，但要英文读者理解这份“诗意”，要求则未免太高，因此尽量归化，并简化形式和内容，是最友好的翻译方式。</p>
 <p>武侠小说里的人物角色是翻译的另一个难点。《书剑恩仇录》译本采用的是完全异化的策略。主要人物的名字完全音译，次要人物只译姓氏或绰号，比如霍青桐译为 Huo Qingtong，赵半山简化为 Zhao。遗憾的是翠羽黄衫，只译了一半，the Yellow-Robed Lady，变成终南山后的黄衫女了。《雪山飞狐》译本又采用的是完全归化的策略。所有人物的名字都采取音译结合意译的方法，比如陶百岁译为 Century Tao，金面佛直接译为 Gilt-Faced Buddha。不过将胡斐译为 Fox Hu 就和原文的意味相去甚远了，不仅显不出胡斐的文采斐然，还给人一种这个角色像狐狸一样性格狡诈的错觉。</p>
 <p>其实仔细想想，人名又何必意译呢。几时有人听过“灌木总统”的？</p>
 <p>《剑桥简明金庸武侠史》的作者不仅大玩了一把用翻译腔从英文回译中文的把戏，还用翻译腔的白话文翻译了几首古诗。</p>
@@ -77,53 +77,45 @@ The magic knight smiles at the book, asbelow.</p>
 剑光到来，宛如雷霆收起了怒火。<br>
 剑影停下，仿佛江海的清波粼粼。</p>
 <p>还有李白的《侠客行》：</p>
-<p>赵客缦胡缨，吴钩霜雪明。</p>
-<p>银鞍照白马，飒沓如流星。</p>
-<p>十步杀一人，千里不留行。</p>
-<p>事了拂衣去，深藏身与名。</p>
-<p>闲过信陵饮，脱剑膝前横。</p>
-<p>将炙啖朱亥，持觞劝侯嬴。</p>
-<p>三杯吐然诺，五岳倒为轻。</p>
-<p>眼花耳热后，意气素霓生。</p>
-<p>救赵挥金锤，邯郸先震惊。</p>
-<p>千秋二壮士，烜赫大梁城。</p>
-<p>纵死侠骨香，不惭世上英。</p>
-<p>谁能书阁下，白首太玄经。</p>
+<p>赵客缦胡缨，吴钩霜雪明。<br>
+银鞍照白马，飒沓如流星。<br>
+十步杀一人，千里不留行。<br>
+事了拂衣去，深藏身与名。<br>
+闲过信陵饮，脱剑膝前横。<br>
+将炙啖朱亥，持觞劝侯嬴。<br>
+三杯吐然诺，五岳倒为轻。<br>
+眼花耳热后，意气素霓生。<br>
+救赵挥金锤，邯郸先震惊。<br>
+千秋二壮士，烜赫大梁城。<br>
+纵死侠骨香，不惭世上英。<br>
+谁能书阁下，白首太玄经。</p>
 <p>作者译成《游侠之歌》：</p>
-<p>赵国的骑士，匈奴的头盔，</p>
-<p>吴国的弯刀，冰雪般明亮，</p>
-<p>银色的鞍辔，雪白的骏马，</p>
-<p>少年啦飞驰，如同流星。</p>
-<p>每走十步就谋杀一个人，</p>
-<p>就这样走上一千英里。</p>
-<p>当一切结束后，洗去衣服上的血迹，</p>
-<p>再也没有人知道我在哪里。</p>
-<p>闲暇，与信陵大人对坐，</p>
-<p>脱下宝剑，横在膝前，</p>
-<p>用烤肉招待朱亥，</p>
-<p>也劝侯赢痛饮美酒。</p>
-<p>说出的承诺，在三杯酒后</p>
-<p>让五岳的山脉也显得轻浮。</p>
-<p>眼睛中有花朵，耳中感到热量。</p>
-<p>磅礴元气，化为一道白色的长虹。</p>
-<p>挥动黄金之锤，拯救国家，</p>
-<p>让整个都城为之震惊。</p>
-<p>一千年来，两位雄壮的游侠。</p>
-<p>给大梁城以荣耀。</p>
-<p>即使死去，游侠的骨骼仍然散发香气。</p>
-<p>无愧于世间的英豪。</p>
-<p>可是有谁呵，能够在书斋中，</p>
-<p>研究玄妙的经典，直到满头白发？</p>
+<p>赵国的骑士，匈奴的头盔，<br>
+吴国的弯刀，冰雪般明亮，<br>
+银色的鞍辔，雪白的骏马，<br>
+少年啦飞驰，如同流星。<br>
+每走十步就谋杀一个人，<br>
+就这样走上一千英里。<br>
+当一切结束后，洗去衣服上的血迹，<br>
+再也没有人知道我在哪里。<br>
+闲暇，与信陵大人对坐，<br>
+脱下宝剑，横在膝前，<br>
+用烤肉招待朱亥，<br>
+也劝侯赢痛饮美酒。<br>
+说出的承诺，在三杯酒后<br>
+让五岳的山脉也显得轻浮。<br>
+眼睛中有花朵，耳中感到热量。<br>
+磅礴元气，化为一道白色的长虹。<br>
+挥动黄金之锤，拯救国家，<br>
+让整个都城为之震惊。<br>
+一千年来，两位雄壮的游侠。<br>
+给大梁城以荣耀。<br>
+即使死去，游侠的骨骼仍然散发香气。<br>
+无愧于世间的英豪。<br>
+可是有谁呵，能够在书斋中，<br>
+研究玄妙的经典，直到满头白发？</p>
 <p>少年啦飞驰，如同流星，一切结束后，再也没有人知道我在哪里。</p>
 <p>相当浪漫，相当李白了。</p>
-<p>参考：</p>
-<ol>
-<li>《剑桥简明金庸武侠史》，新垣平，长江文艺出版社，2013.</li>
-<li>肖强. 中国武侠小说英译及其研究现状[J]，内江师范学院学报，2011（3）</li>
-<li>https://www.bilibili.com/video/av20085163/</li>
-<li>吴玉光. 归化还是异化：金庸武侠小说的英译策略探究[J]，西安外国语大学学报，2011（6）</li>
-<li>Minford, J. The Deer and the Couldon[M], Oxford University Press, 2002.</li>
-</ol>
 ]]></content>
     </entry>
     <entry>
@@ -132,19 +124,19 @@ The magic knight smiles at the book, asbelow.</p>
         <link href="https://ywangur.github.io/mansplainyu-yan-zhong-de-xing-bie-qi-shi-yu-pian-jian/">
         </link>
         <updated>2020-06-12T15:55:44.000Z</updated>
-        <content type="html"><![CDATA[<p>2008 年  Rebecca Solnit（丽贝卡·索尔尼特）发表了文章 Men Explain Things to Me (《男人向我解释事情》），讲述一位男士在一次聚会上对着作家本人滔滔不绝大谈她新近出版的一本书，但其实他对该书的内容只是一知半解。这篇文章促进了一个新词的诞生，mansplain。这个词由 man 和 explain 合成，作动词用，含贬义，形容一个人以一种居高临下的态度向他人解释某些事情，尤其指男性向女性解释她已知的事物。中文大概可以理解为“男人的说教” 。</p>
+        <content type="html"><![CDATA[<p>2008 年  Rebecca Solnit（丽贝卡·索尔尼特）发表了文章<a herf="https://book.douban.com/subject/30438861/" target="_blank"> Men Explain Things to Me (《男人向我解释事情》）</a>，讲述一位男士在一次聚会上对着作家本人滔滔不绝大谈她新近出版的一本书，但其实他对该书的内容只是一知半解。这篇文章促进了一个新词的诞生，mansplain。这个词由 man 和 explain 合成，作动词用，含贬义，形容一个人以一种居高临下的态度向他人解释某些事情，尤其指男性向女性解释她已知的事物。中文大概可以理解为“男人的说教” 。</p>
 <p>十年后，即 2018 年，牛津英语词典在更新词库时收录了这个词语。</p>
-<p>类似的还有另一个词汇，manterrupt，由 man 和 interrupt 合成，意为男性不必要地打断女性的谈话（参考资料 1）。</p>
-<p>心理学家研究了 manterrupt 和 mansplain 现象的原因（参考资料 2），认为男性与女性的语言世界基本上属于两种秩序。除了大脑运作的差异外，男性的表达方式更直接，其目的是为了“获得进展（ get progress ）”，而女性则更加委婉，其目的是为了“产生连接（ generate links ）”。</p>
+<p>类似的还有另一个词汇，<a herf="https://jjdigeronimo.com/manterrupting-bropropriating-mansplaining-ways-men-undermine-women/ " target="_blank">manterrupt</a>，由 man 和 interrupt 合成，意为男性不必要地打断女性的谈话。</p>
+<p>心理学家研究了 manterrupt 和 mansplain 现象的<a herf="https://en.womany.net/read/article/6986" target="_blank">原因</a>，认为男性与女性的语言世界基本上属于两种秩序。除了大脑运作的差异外，男性的表达方式更直接，其目的是为了“获得进展（ get progress ）”，而女性则更加委婉，其目的是为了“产生连接（ generate links ）”。</p>
 <p>女性的沟通习惯表现为她们使用更多间接式的句子，尽量避免直接回答问题，多用“可能”、“好像”这样的表达；使用更多的反问句，比如“是吧？”、“你觉得呢？”；使用更多琐碎的词语表达（trivial）和小词缀，比如“小内内”或“小厨房”；较少使用感情色彩强烈的用语（strong expression），这里主要指脏话；以及更多使用委婉语。</p>
 <p>她们的习惯更委婉，更礼貌，但听起来也更不确定。</p>
 <p>有人认为是这种不确定性在某种程度上给 manterrupt 和 mansplain 提供了舞台。</p>
 <p>那如果一位女性在说话时去掉以上这些语言特征，会发生什么变化呢？</p>
 <p>很遗憾，跟进研究发现，改变说话方式并不会帮助女性争取到 assertiveness （说话自信）和 the sense of power（权力感）。</p>
 <p>我们需要承认 mansplain 和 manterrupt 是性别歧视的体现，也需要承认我们每个人都存在“潜意识的偏见（ unconscious bias），而这些歧视和偏见与我们的社会历史息息相关。</p>
-<p>Robin Lakoff 在 1973 年发表的论文 Language and Woman's Place（《语言和女性地位》） （参考资料 3）被视为社会语言学领域讨论语言与性别关系的开创性作品。基于自己的研究和生活观察，Lakoff 认为女性的日常语言习惯恰恰反映了根深蒂固且可能无意识的性别歧视，体现了女性在社会上被边缘化以及没有作为独立个体受到重视的情况。</p>
+<p>Robin Lakoff 在 1973 年发表的论文 <a herf="https://web.stanford.edu/class/linguist156/Lakoff_1973.pdf" target="_blank">Language and Woman's Place《语言和女性地位》</a>被视为社会语言学领域讨论语言与性别关系的开创性作品。基于自己的研究和生活观察，Lakoff 认为女性的日常语言习惯恰恰反映了根深蒂固且可能无意识的性别歧视，体现了女性在社会上被边缘化以及没有作为独立个体受到重视的情况。</p>
 <p>在开头的心理学研究中，女性之所以更倾向于使用委婉语，避免感情色彩强烈的词汇，是因为我们的教育和文化对女性提出的要求如此。女性应该温柔贤惠，善解人意，不应该骂人，举止粗鲁。同样的，男性喜欢直接的表达也与从小受到的教育有关。人们希望男孩有“男子气概”，应该充满斗志，不拘小节。</p>
-<p>Quora 上有一个很有趣的问题（参考资料 4）：</p>
+<p>Quora 上有一个很有趣的<a herf="https://www.quora.com/Are-feminist-coined-terms-like-mansplaining-manspreading-manterrupting-manslamming-manderstanding-bropriating-etc-innately-bigoted-against-men-Why-no-female-worded-terms-for-bad-behavior" target="_blank">问题</a>：</p>
 <p><em>Are feminist-coined terms like mansplaining, manspreading, manterrupting, manslamming, manderstanding, bropriating, etc., innately bigoted against men? Why no female-worded terms for bad behavior?</em></p>
 <p>mansplaining, manspreading（或mansitting，指男性在公众场合张开双腿，占用多余一个座位的空间的行为，简称大爷式占座）, manterrupting, manslamming（指在拥挤的人群中不肯让路，直接撞到他人的行为）, manderstanding（指在社交场合讲只有男性能理解或认同的笑话，令在场的女性感到困惑和厌恶的行为）, bropriating（指默默把功劳转移到自己身上，将女性先提出的想法据为己有的行为，通常发生在 mansplain 或 manterrupt 后） 这些天生对男性有偏见的词汇是女权主义者杜撰的吗？为什么没有形容不良行为的女性词汇？</p>
 <p>这些以 man- 为前缀的词汇当然对男性是有偏见和歧视的，类似中文里的“女博士”、“女司机”、“女工人”，特意将某一方视为例外，无形中将另一方树立为“规范”，从而制造了性别对立。</p>
@@ -155,7 +147,7 @@ The magic knight smiles at the book, asbelow.</p>
 <p>中文里女字旁的字相当多，按照汉语的组字规则，女字旁的字当然与女子有关。这中间有一个极其不合理的词群：与传统道德上认为不正当的男女关系有关的词汇几乎都是女字旁，嫖，奸，姘，妓，娼，好像男性在这段关系中是隐形的。中文似乎没有词汇形容出卖色相的男性，只能凑一个词叫“男妓”，这也要生拉女性来做陪衬。</p>
 <p>而婚后的女性更是从造字初始被放在了不平等的地位。已婚的女子称为“妇”，“妇”是一个会意字，甲骨文左边是“帚”，右边是“女”，从女持帚，表示洒扫。这个字的象形字书画造形，是一个跪着的持扫帚的女性。《说文》记载：“ 婦，服也。从女，持帚，洒埽也。会意。谓服事人者。” 服事，一意臣服听命，一意服侍、照料。从一开始，已婚的女子就被定义为负责洒扫家务，服侍他人的服从者形象，这不能不说是一种极大的不平等。</p>
 <p>语言忠实反映了一个民族的全部历史、文化，忠实反映了它的各种游戏和娱乐、各种信仰和偏见。为了在多语言环境下支持性别平等，“营造一个支持平等、消除偏见、包容所有工作人员的工作环境”，联合国倡导使用性别包容性语言，并为不同语言编制了语言指南。</p>
-<p>《中文性别包容性语言指南》（参考资料 5）中为在使用中文时实现性别包容提供了三个策略：</p>
+<p><a herf="https://www.un.org/zh/gender-inclusive-language/guidelines.shtml" target="_blank">《中文性别包容性语言指南》</a>中为在使用中文时实现性别包容提供了三个策略：</p>
 <ol>
 <li>使用非歧视性语言。</li>
 </ol>
@@ -170,25 +162,6 @@ The magic knight smiles at the book, asbelow.</p>
 </ol>
 <p>避免使用区分性别的所有格，如“他的”、“她的”，使用“其”、“该”、“此”等中性代词或重复此人的姓名、职称或所属组织。例如“教授需派他的助手参会”修改为“教授需派其助手参会”，因为此时不必强调教授性别，或“法官由选举产生。他应该品德高尚，符合专业资质要求”修改为“法官由选举产生。法官应该品德高尚，符合专业资质要求”。</p>
 <p>在追求性别平等的道路上，制造性别对立绝不是我们的初衷和目的，重要的是认识到真实存在的不平等，思考导致不平等的原因，并发出自己的声音。</p>
-<p>参考资料：</p>
-<ol>
-<li>
-<p>https://jjdigeronimo.com/manterrupting-bropropriating-mansplaining-ways-men-undermine-women/</p>
-</li>
-<li>
-<p>https://en.womany.net/read/article/6986</p>
-</li>
-<li>
-<p>https://web.stanford.edu/class/linguist156/Lakoff_1973.pdf</p>
-</li>
-<li>
-<p>https://www.quora.com/Are-feminist-coined-terms-like-mansplaining-manspreading-manterrupting-manslamming-manderstanding-bropriating-etc-innately-bigoted-against-men-Why-no-female-worded-terms-for-bad-behavior</p>
-</li>
-<li>
-<p>https://www.un.org/zh/gender-inclusive-language/guidelines.shtml</p>
-</li>
-</ol>
-<p>6.《爱说教的男人》, https://book.douban.com/subject/30438861/</p>
 ]]></content>
     </entry>
     <entry>
@@ -261,8 +234,8 @@ The magic knight smiles at the book, asbelow.</p>
 <p>是的，玛丽变了。<br>
 她被强暴了。<br>
 她相信儿子是自己被强暴的结果。</p>
-<p>这就是守望者·文学·女性系列新书《隐痛》的故事。玛丽的故事。</p>
-<p>如果说《房思琪的初恋乐园》已经说明了强暴是社会性的谋杀，任何性暴力都是整个社会一起完成的这一共识，那么《隐痛》则在这个共识上更为细致地从妻子和母亲两个角度描述了强暴给受害者带来的个体上的转变，即从肉体到精神上的痛。</p>
+<p>这就是守望者·文学·女性系列新书<a herf="https://book.douban.com/subject/34881136/" target="_blank">《隐痛》</a>的故事。玛丽的故事。</p>
+<p>如果说<a herf="https://book.douban.com/subject/35063046/" target="_blank">《房思琪的初恋乐园》</a>已经说明了强暴是社会性的谋杀，任何性暴力都是整个社会一起完成的这一共识，那么《隐痛》则在这个共识上更为细致地从妻子和母亲两个角度描述了强暴给受害者带来的个体上的转变，即从肉体到精神上的痛。</p>
 <p>被强暴后的玛丽不再享受丈夫洛朗的触碰，这让她感觉像是另一种强暴，她如今只能感受到下体的疼痛，但她不能逃避夫妻间的责任，何况他们正准备要一个孩子。<br>
 于是她一直在“不要”和“不能不要”间痛苦，甚至面对丈夫觉得自己有种罪恶感。<br>
 或许被强暴是自己造成的？或许自己那天不应该答应坐上司的车？</p>
@@ -304,15 +277,6 @@ The magic knight smiles at the book, asbelow.</p>
 <p>房思琪是一个太精致的小孩了，强暴这样的事情她是不会说出去的，因为这太“脏”了。自尊心会缝起她的嘴。</p>
 <p>一个人被另一个人伤害，受伤的人应该感到肮脏和羞耻。这么不合逻辑的事情，却好像很多人都在这么认为，也在这么做。</p>
 <p>在这样的环境下，又有多少玛丽们和房思琪们能够成为勇敢的弦子们呢？弦子们又有多可贵呢？</p>
-<p>参考：</p>
-<ol>
-<li>
-<p>《隐痛》，[法]伊内丝·巴亚尔 著，焦君怡 译，南京大学出版社，2020.</p>
-</li>
-<li>
-<p>《房思琪的初恋乐园》，林奕含 著，北京联合出版公司，2018.</p>
-</li>
-</ol>
 ]]></content>
     </entry>
     <entry>
@@ -321,7 +285,7 @@ The magic knight smiles at the book, asbelow.</p>
         <link href="https://ywangur.github.io/modern-love-love-stories-in-coronavirus-pandemic/">
         </link>
         <updated>2020-04-01T17:02:34.000Z</updated>
-        <content type="html"><![CDATA[<p>昨天听了 Modern Love Podcast 的一期节目，来自世界各地的人讲述疫情如何影响自己的生活。留意到了印象比较深刻的几个故事。</p>
+        <content type="html"><![CDATA[<p>昨天听了 Modern Love Podcast 的一期<a herf="https://nytimes.com/2020/04/01/style/modern-love-podcast-coronavirus-relationships.html" target="_blank">节目</a>，来自世界各地的人讲述疫情如何影响自己的生活。留意到了印象比较深刻的几个故事。</p>
 <p>一位住在多哈的加拿大女生刚刚分手，她的伴侣是一位飞行员，他预感到自己即将失业。她用 devastated 来形容她此刻的心情。她不禁开始想到同样在疫情期间失业或失恋的人们，给他们送上安慰，也安慰自己。</p>
 <p>I'm experiencing a break up, right now, during the golbal pandemic, and it's not  easy.<br>
 I'm thinking about the other people who are experiencing the same.<br>
@@ -363,10 +327,6 @@ Now that I found you. Stay</p>
 <p>And let me love you, baby<br>
 Let me love you</p>
 <p>是一期很喜欢的节目了。</p>
-<p>参考：</p>
-<ol>
-<li>2020 年 4 月 1 日《纽约时报》Modern Love Podcast：nytimes.com/2020/04/01/style/modern-love-podcast-coronavirus-relationships.html</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
