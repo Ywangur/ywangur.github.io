@@ -1,0 +1,159 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Annual Report/年报翻译 | TRANSYWANG</title>
+<link rel="shortcut icon" href="https://ywangtrans.com/favicon.ico?v=1663838707385">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://ywangtrans.com/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Annual Report/年报翻译 | TRANSYWANG - Atom Feed" href="https://ywangtrans.com/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="年报翻译约80万字，此处示例为中译英，为保密已略去关键信息。
+An annul report translated from Chinese to English with key details omitted here for conf..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://ywangtrans.com">
+  <img class="avatar" src="https://ywangtrans.com/images/avatar.png?v=1663838707385" alt="">
+  </a>
+  <h1 class="site-title">
+    TRANSYWANG
+  </h1>
+  <p class="site-description">
+    
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="https://ywangtrans.com" class="menu">
+          Home
+        </a>
+      
+    
+      
+        <a href="https://ywangtrans.com/archives" class="menu">
+          Archieves
+        </a>
+      
+    
+      
+        <a href="https://ywangtrans.com/tags" class="menu">
+          Tags
+        </a>
+      
+    
+      
+        <a href="https://ywangtrans.com/post/about" class="menu">
+          About
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              Annual Report/年报翻译
+            </h2>
+            <div class="post-info">
+              <span>
+                2020-06-11
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>年报翻译约80万字，此处示例为中译英，为保密已略去关键信息。</p>
+<p>An annul report translated from Chinese to English with key details omitted here for confidential.</p>
+<figure data-type="image" tabindex="1"><img src="https://ywangtrans.com/post-images/1653724971575.jpg" alt="" loading="lazy"></figure>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+
+        
+
+        <div class="site-footer">
+  一个译员的日常 2019 - 2022
+  <a class="rss" href="https://ywangtrans.com/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
